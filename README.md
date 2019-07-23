@@ -7,3 +7,5 @@ Registro de vehículos
 - valida la placa del vehiculo para  que no se  dupliquen los registros
 - tiene un buscador con los  requerimientos.
 - hay mismo en la busqueda puede generar los reportes ya sea en pdf o imprimirlos directamente con los campos que  desees imprimir.
+
+- para ver  el sistema en funcionamiento : http://jcpatio.co/registroVehiculos
